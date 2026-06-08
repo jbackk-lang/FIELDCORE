@@ -1,0 +1,9 @@
+[project]
+name = "fieldcore"
+version = "0.0.1"
+description = "Framework opisujący strukturę pola i rezonansów"
+authors = [{name = "Jacek"}]
+requires-python = ">=3.10"
+
+[tool.setuptools]
+packages = ["src", "models"]

@@ -10,3 +10,7 @@ class ModelPola:
             "intensywnosc": self.intensywnosc,
             "harmoniczne": self.harmoniczne
         }
+    def filtr_lambda(self, lambda_wartosc):
+        # filtr góra–dół (placeholder)
+        self.intensywnosc *= lambda_wartosc
+        return self

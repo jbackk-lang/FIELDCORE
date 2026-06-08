@@ -16,6 +16,16 @@ class FieldCore:
         self.rezonanse.append(rezonans)
         return self
 
-    def generuj_czastki(self):
-        # placeholder – logika pojawi się później
+        def generuj_czastki(self):
+        self.czastki = []
+
+        for r in self.rezonanse:
+            masa = r.amplituda * 0.1
+            ladunek = 0 if r.czestotliwosc % 2 == 0 else 1
+            spin = 1/2
+
+            from models.model_czastek import Czastka
+            cz = Czastka(masa, ladunek, spin)
+            self.czastki.append(cz)
+
         return self.czastki

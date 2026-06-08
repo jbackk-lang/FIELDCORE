@@ -3,6 +3,8 @@ from models.model_pola import *
 from models.model_rezonansow import *
 from models.model_czastek import *
 from models.model_torus_mobius import TorusMobius
+from config.logger import log
+
 class FieldCore:
     def aktualizuj_topologie(self, dR, dS):
         if hasattr(self, "topologia"):
@@ -12,6 +14,12 @@ class FieldCore:
     def ustaw_topologie(self, promien, skret):
         self.topologia = TorusMobius(promien, skret)
         return self
+        
+    def add_rezonans(self, rezonans):
+        self.rezonanse.append(rezonans)
+        log(f"Dodano rezonans: {rezonans.opis()}")
+        return self
+
 
     def __init__(self):
         self.pole = None
@@ -28,6 +36,8 @@ class FieldCore:
 
         def generuj_czastki(self):
         self.czastki = []
+        log("Generowanie cząstek...")
+
 
         for r in self.rezonanse:
             masa = r.amplituda * 0.1

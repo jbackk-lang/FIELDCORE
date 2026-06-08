@@ -1,6 +1,10 @@
 # Model matematyczny pola – wersja wstępna
 # Tutaj trafią równania opisujące podstawową dynamikę pola
 class ModelPola:
+    def dodaj_harmonike(self, wartosc):
+        self.harmoniczne.append(wartosc)
+        return self
+
     def __init__(self, intensywnosc=1.0, harmoniczne=None):
         self.intensywnosc = intensywnosc
         self.harmoniczne = harmoniczne or []

@@ -1,56 +1,52 @@
-# README UPGRADE — FIELDCORE (QUALITY STEPS)
+# FIELDCORE  
+### Framework for Field Structure, Resonance Dynamics and Top‑Down Information Flow
 
-## 1. Clarify the core idea
-- Write ONE clear sentence:
-  - “FIELDCORE describes how the cosmic field generates local resonances that appear as particles.”
-- This becomes the first line of the README.
+FIELDCORE describes how the cosmic field generates local resonances that appear as particles.  
+It provides a deterministic, geometry‑based model of how reality organizes itself from large‑scale structure down to particle‑level behaviour.
 
-## 2. Add a short overview section
-- Create section: **Overview**
-- 2–3 sentences:
-  - What FIELDCORE is.
-  - What it models (cosmos → field → particles).
-  - Why it is important.
+---
 
-## 3. Extract and list key concepts
-- Create section: **Key Concepts**
-- Bullet list:
-  - Field as primary structure.
-  - Toroidal–Möbius resonances.
-  - Top‑down filter (cosmos → field → particles).
-  - Deterministic particle behaviour.
+## Overview
+FIELDCORE models the transition:
+**cosmos → field → local resonance → particle**.
 
-## 4. Add a “How it works” mini‑example
-- Create section: **How it works (example)**
-- Simple flow:
-  - Input: global field configuration.
-  - Process: filter + resonance formation.
-  - Output: stable particle as local resonance.
+It explains how global field structure shapes local behaviour, why resonances stabilize, and how particle‑like configurations emerge from topological dynamics.
 
-## 5. Describe repository structure
-- Create section: **Repository Structure**
-- Use a code block:
-  - `/docs` — theory and filter
-  - `/src` — engine and resonance solver
-  - `/models` — particle and field models
-  - `/examples` — simulations and visualizations
-  - `/tests` — basic tests
+---
 
-## 6. Add relations to other repositories
-- Create section: **Related Projects**
-- Short table:
-  - TIMDR — topology of information (foundation)
-  - We‑Are‑Building‑Particles — particles from field
-  - MAPA-PO-HELU — matter structure
-  - fundamental-ai-model — AI using field/resonance
+## Key Concepts
+- **Field as primary structure** — the field is the fundamental substrate of reality.   
+- **Toroidal–Möbius resonances** — particles form as stable toroidal/Möbius configurations of the field.   
+- **Top‑down filter (cosmos → field → particles)** — large‑scale structure constrains local behaviour.   
+- **Deterministic particle behaviour** — interactions follow from field geometry, not probability.   
 
-## 7. Ensure language and terminology are consistent
-- Use **English only** in README.
-- Always use:
-  - “field” (not “pole”)
-  - “resonance” (not “rezonans”)
-  - “Möbius loop” (not “pętla Möbiusa”)
+---
 
-## 8. Finish with license
-- Create section: **License**
-- State: `MIT License`.
+## How it Works (example)
+**Input:** global field configuration.   
+**Process:** Möbius + λ filter → resonance formation.   
+**Output:** stable particle as a local resonance.   
+
+---
+
+## Repository Structure
+```
+/docs
+    theory and filter
+/src
+    engine and resonance solver
+/models
+    particle and field models
+/examples
+    simulations and visualizations
+/tests
+    basic tests
+```
+
+
+---
+
+## Related Projects
+| Repository | Relation |
+|-----------|----------|
+| TIMDR | Topology of information — foundational

@@ -1,3 +1,4 @@
+me
 # FIELDCORE  
 Framework opisujący strukturę pola i rezonansów w ujęciu góra–dół: kosmos → pole → cząstki.  
 Framework for Field Structure, Resonance Dynamics and Top‑Down Information Flow.
@@ -149,6 +150,13 @@ On cosmological scales, the same structure operates identically, but globally:
    I_mutual → 0, Λ can no longer maintain relations, and time loses its direction.
 
 The Big Rip is therefore the macroscopic counterpart of muon decay — the same dynamics, different scale.
+
+## Mapa układu słonecznego z wstęgą Möbiusa
+
+![Mapa układu słonecznego z Möbiusem i skrętem przemagnesowania](https://copilot.microsoft.com/th/id/BCO.82dd0350-9142-42b2-ab08-5a30f263764f.png)
+
+Wizualizacja układu słonecznego z tłem w formie wstęgi Möbiusa i zaznaczonym punktem skrętu przemagnesowania — symboliczny model przejścia pola magnetycznego w cyklu kosmicznym.
+
 ---
 
 ## 7. Licencja / License  

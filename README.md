@@ -1,164 +1,160 @@
-me
-# FIELDCORE  
-Framework opisujący strukturę pola i rezonansów w ujęciu góra–dół: kosmos → pole → cząstki.  
-Framework for Field Structure, Resonance Dynamics and Top‑Down Information Flow.
+# FIELDCORE — Koncepcyjny Model Struktury Pola i Rezonansu
 
----
-## Struktura Modelu (Λ, τ, ρ, J)
+**FIELDCORE** to część frameworku Λ–τ–ρ, opisująca  
+symboliczną strukturę pola, skrętu i rezonansów  
+w ujęciu **top‑down**: kosmos → pole → lokalny rezonans → cząstka  
+.
 
-Model FIELDCORE opisuje dynamikę informacji poprzez cztery fundamentalne elementy:
-
-### 1. Pęd i Skręt
-Pęd definiuje kierunek ewolucji układu, natomiast skręt jest pierwszym złamaniem symetrii, które inicjuje strukturę. Oba elementy stanowią punkt startowy każdej konfiguracji informacyjnej.
-
-### 2. Pole Λ
-Λ jest polem informacyjnym utrzymującym spójność i rozciągłość układu. Nie wymusza skrętu, lecz stabilizuje jego istnienie. Pole działa jako nośnik relacji między lokalnymi stanami.
-
-### 3. Asymetria Lokalna τ
-τ jest minimalnym lokalnym odchyleniem, które nadaje kierunkowość ewolucji. Jest to źródło strzałki czasu bez odwoływania się do entropii. τ działa jako strukturalny „tilt”.
-
-### 4. Gradient Informacji ρ
-ρ opisuje lokalne nachylenie informacji. Pozwala wykrywać miejsca, w których struktura zaczyna pękać, zanim globalne korelacje ulegną rozpadowi. Jest to wskaźnik wczesnego ostrzegania.
-
-### 5. Próg / Przejście J
-J jest operatorem przejścia między stanami. Określa moment, w którym układ zmienia reżim: stabilność → niestabilność, symetria → asymetria, korelacja → dekoherencja. J jest punktem skrętu helisy.
-
-### 6. Dwupolowość
-Model zakłada istnienie dwóch pól o przeciwnych skrętach, oba od‑sobnych. Ich interakcja generuje globalną dynamikę i rezonanse.
-
-### 7. Filtr
-Filtr określa, które informacje przechodzą między warstwami modelu. Jest to mechanizm selekcji i modulacji, odpowiedzialny za tłumienie lub wzmacnianie sygnałów.
-
-### 8. Skala (mikro ↔ makro)
-Ta sama dynamika obowiązuje na wszystkich poziomach: od rozpadu mionu (2.196 μs) po kosmologiczne scenariusze typu Big Rip. Model jest skalowalny i samopodobny.
-
-### 9. Topologia TIMDR
-TIMDR jest topologią ruchu, skrętu i relacji. Łączy Λ, τ, ρ i J w jedną spójną strukturę opisującą ewolucję informacji w czasie.
-
----
-## 1. Idea  
-FIELDCORE opisuje, jak globalna struktura pola generuje lokalne rezonanse, które obserwujemy jako cząstki.  
-FIELDCORE describes how the cosmic field generates local resonances that appear as particles.
-
-Model jest deterministyczny i geometryczny:  
-The model is deterministic and geometry‑based:
-
-- kosmos → pole → rezonans → cząstka  
-- cosmos → field → resonance → particle
+To **nie jest teoria fizyczna**,  
+**nie jest modelem empirycznym**,  
+ale **framework pojęciowy**, który pozwala patrzeć na informację  
+jak na proces strukturalny i topologiczny.
 
 ---
 
-## 2. Rdzeń modelu / Core of the model
+## 1. Elementy Modelu (Λ, τ, ρ, J)
 
-Pole ma trzy parametry:  
-The field has three parameters:
+### **1. Pęd i Skręt**  
+Skręt jest pierwszym symbolicznym złamaniem symetrii,  
+inicjującym strukturę pola  
+.
 
-- **Λ** — ilość pola lokalnie / field density  
-- **τ** — kierunek skrętu / twist orientation  
-- **ρ** — stabilność rezonansu / resonance stability
+### **2. Pole Λ**  
+Λ stabilizuje strukturę i utrzymuje relacje między stanami  
+.  
+To metafora spójności, nie pole fizyczne.
 
-Dwie strony pola (skręt prawy i lewy) tworzą podwójną membranę.  
-Two sides of the field (right‑hand and left‑hand twist) form a double membrane.
+### **3. Asymetria Lokalna τ**  
+τ nadaje kierunek ewolucji — symboliczna „strzałka czasu”  
+.
 
----
+### **4. Gradient Informacji ρ**  
+ρ wskazuje miejsca, gdzie struktura zaczyna „pękać”  
+.  
+To metafora niestabilności.
 
-## 3. Geometria pola / Field geometry
+### **5. Próg / Przejście J**  
+J to punkt zmiany reżimu — symboliczny „punkt skrętu helisy”  
+.
 
-Sześcian jest alfabetem skrętu:  
-The cube is the alphabet of twist:
+### **6. Dwupolowość**  
+Model używa dwóch pól o przeciwnych skrętach  
+.  
+To metafora dwóch domen, nie opis fizyczny.
 
-- 12 osi skrętu / 12 twist axes  
-- 24 trójkąty orientacji / 24 orientation triangles  
-- X‑punkt jako styk dwóch stron / X‑point as the contact of both sides
+### **7. Filtr**  
+Mechanizm selekcji informacji między warstwami  
+.
 
-Rezonans powstaje, gdy τ wybiera jedną z osi i tworzy helisę.  
-A resonance forms when τ selects an axis and creates a helix.
+### **8. Skala (mikro ↔ makro)**  
+Ta sama struktura interpretacyjna działa na wszystkich poziomach  
+.  
+To zasada samopodobieństwa, nie twierdzenie naukowe.
 
----
-
-## 4. Jak to działa (przykład) / How it works (example)
-
-**Wejście / Input:** globalna konfiguracja pola  
-**Proces / Process:** filtr Möbius + Λ + τ → formowanie rezonansu  
-**Wyjście / Output:** stabilna cząstka jako lokalny rezonans
-
----
-
-## 5. Struktura repozytorium / Repository structure
-
-- **/docs** — teoria i diagramy  
-- **/src** — silnik i solver rezonansów  
-- **/models** — modele pola i cząstek  
-- **/examples** — symulacje i wizualizacje  
-- **/tests** — testy podstawowe
-
----
-
-## 6. Powiązane projekty / Related projects
-
-- **TIMDR** — topologia informacji (warstwa fundamentu)  
-- **We‑Are‑Building‑Particles** — generowanie cząstek z pola  
-- **MAPA‑PO‑HELU** — struktura materii z helis  
-- **AstroCycles‑TIMDR** — cykle harmoniczne kosmosu
+### **9. Topologia TIMDR**  
+TIMDR łączy Λ, τ, ρ i J w jedną strukturę ruchu i relacji  
+.
 
 ---
 
-## Example: The Muon as a Local Case of Λ–τ–ρ–J Dynamics
+## 2. Idea Modelu
 
-Muon decay is the smallest scale on which the full sequence of the model becomes visible:
+FIELDCORE opisuje, jak **globalna struktura pola**  
+może generować **lokalne rezonanse**,  
+interpretowane symbolicznie jako „cząstki”  
+.
 
-1. Field Λ  
-   The muon maintains the coherence of its internal structure through a local Λ-field that stabilizes its quantum state.
-
-2. Local Asymmetry τ  
-   A minimal asymmetry τ introduces directionality in the evolution.  
-   This is why the muon has a finite lifetime instead of an infinite one.
-
-3. Information Gradient ρ  
-   As time progresses, the local information gradient ρ increases, signaling the growing loss of internal correlations.
-
-4. Threshold J  
-   When ρ reaches its critical value, the system crosses the threshold J.  
-   This is the moment when the muon’s structure can no longer maintain coherence, and decay occurs.
-
-5. Lifetime  
-   The muon lifetime τ_muon = 2.196 μs is simply the interval in which ρ → ρ_c and the system passes through J.
-
-Muon decay is therefore a local, microscopic example of the same dynamics that operate on all scales.
----
-## Example: The Big Rip as a Global Case of Λ–τ–ρ–J Dynamics
-
-On cosmological scales, the same structure operates identically, but globally:
-
-1. Field Λ  
-   Λ describes the global coherence of the Universe — the relational structure between regions of space.
-
-2. Local Asymmetry τ  
-   A minimal asymmetry τ sets the direction of expansion.  
-   It is not dark energy “pushing”, but a structural tilt τ that defines the direction of evolution.
-
-3. Information Gradient ρ  
-   As expansion accelerates, the information gradient ρ increases:  
-   local regions lose correlations faster than global ones.
-
-4. Threshold J  
-   When ρ reaches its critical value on a global level, the system crosses the threshold J.  
-   This is the moment when the Universe can no longer maintain relational coherence — the Big Rip occurs.
-
-5. Global Breakdown  
-   This is not the tearing of matter, but the complete loss of informational structure:  
-   I_mutual → 0, Λ can no longer maintain relations, and time loses its direction.
-
-The Big Rip is therefore the macroscopic counterpart of muon decay — the same dynamics, different scale.
-
-## Mapa układu słonecznego z wstęgą Möbiusa
-
-![Mapa układu słonecznego z Möbiusem i skrętem przemagnesowania](./Copilot_20260614_154705.png)
-
-Wizualizacja układu słonecznego z tłem w formie wstęgi Möbiusa i zaznaczonym punktem skrętu przemagnesowania — symboliczny model przejścia pola magnetycznego w cyklu kosmicznym.
+To **język metafor geometrycznych**,  
+nie opis zjawisk fizycznych.
 
 ---
 
-## 7. Licencja / License  
-MIT License.
+## 3. Rdzeń Modelu
 
+Pole opisane jest trzema parametrami  
+:
+
+- **Λ** — gęstość pola (symboliczna)  
+- **τ** — orientacja skrętu  
+- **ρ** — stabilność rezonansu  
+
+Dwie strony pola tworzą **podwójną membranę**  
+ — metafora dualności.
+
+---
+
+## 4. Geometria Pola
+
+Sześcian pełni rolę **alfabetu skrętu**  
+:
+
+- 12 osi skrętu  
+- 24 trójkąty orientacji  
+- punkt X jako styk dwóch stron  
+
+Rezonans powstaje, gdy τ wybiera jedną oś  
+i tworzy helisę  
+.
+
+To **symboliczny opis organizacji**,  
+nie geometria fizyczna.
+
+---
+
+## 5. Jak to działa (symboliczny przykład)
+
+Wejście: globalna konfiguracja pola  
+Proces: filtr Möbius + Λ + τ  
+Wyjście: lokalny rezonans  
+.
+
+---
+
+## 6. Struktura Repozytorium
+
+
+
+- `/docs` — diagramy i opis koncepcyjny  
+- `/src` — silnik symboliczny  
+- `/models` — modele pola i rezonansów  
+- `/examples` — przykłady  
+- `/tests` — testy spójności
+
+---
+
+## 7. Powiązane Projekty
+
+
+
+- **TIMDR** — topologia informacji  
+- **We‑Are‑Building‑Particles** — lokalne rezonanse  
+- **MAPA‑PO‑HELU** — struktury helis  
+- **AstroCycles‑TIMDR** — cykle symboliczne  
+
+---
+
+## 8. Przykłady Symboliczne
+
+### **Rozpad mionu jako lokalny przypadek Λ–τ–ρ–J**  
+Interpretacja koncepcyjna procesu rozpadu  
+.
+
+### **Big Rip jako globalny przypadek Λ–τ–ρ–J**  
+Symboliczny opis utraty spójności globalnej  
+.
+
+To **metafory**, nie modele fizyczne.
+
+---
+
+## 9. Wizualizacja
+
+Mapa układu słonecznego na tle wstęgi Möbiusa  
+— symboliczny model cyklu pola  
+.
+
+---
+
+## 10. Licencja
+
+MIT

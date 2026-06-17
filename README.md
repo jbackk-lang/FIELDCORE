@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/jbackk-lang/FIELDCORE/main/Copilot_20260614_154705.png
+![Mapa FIELDCORE](https://raw.githubusercontent.com/jbackk-lang/FIELDCORE/main/Copilot_20260614_154705.png)
+
 
 
 # FIELDCORE — Model Skrętu Ku‑Sobnego i Od‑Sobnego

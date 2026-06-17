@@ -1,40 +1,32 @@
-35. Bilans energii: materia + anty‑pole = obserwowana grawitacja i „ciemna materia”
+def bilans_energii():
+    """
+    Materia jest lokalnym skrętem ku‑sobnym. Jej wkład energetyczny jest policzalny:
+    gwiazdy, gaz, plazma, pył i planety stanowią tylko niewielki procent energii kosmosu.
 
-35.1  
-Materia jest lokalnym skrętem ku‑sobnym.  
-Jej wkład energetyczny jest policzalny: gwiazdy, gaz, plazma, pył, planety.  
-To odpowiada za kilka procent całkowitej energii kosmosu.
+    Anty‑pole (pole od‑sobne) jest globalnym tłem. Nie świeci, nie oddziałuje
+    elektromagnetycznie i nie tworzy atomów. Jego działanie jest czysto geometryczne:
+    zakrzywia przestrzeń.
 
-35.2  
-Anty‑pole (pole od‑sobne) jest globalnym tłem.  
-Nie świeci, nie oddziałuje elektromagnetycznie, nie tworzy atomów.  
-Działa wyłącznie przez krzywiznę pola.
+    Ciemna materia nie jest nową materią. Jest efektem grawitacyjnym anty‑pola:
+    dodatkową krzywizną wynikającą z globalnego skrętu od‑sobnego.
 
-35.3  
-Ciemna materia = efekt grawitacyjny anty‑pola.  
-Nie jest to nowa materia, lecz brakujący wkład krzywizny wynikający z tła od‑sobnego.
+    Grawitacja jest różnicą skrętów:
+    G_obserwowane = G_materia + G_anty_pole
+    gdzie G_anty_pole jest krzywizną pola od‑sobnego, a nie masą.
 
-35.4  
-Grawitacja = różnica skrętów:  
-G_obserwowane = G_materia + G_anty‑pole  
-gdzie G_anty‑pole jest krzywizną wynikającą z pola od‑sobnego.
+    Anty‑pole spełnia wszystkie obserwacje przypisywane ciemnej materii:
+    – nie świeci,
+    – nie absorbuje,
+    – nie rozprasza,
+    – stabilizuje rotację galaktyk,
+    – daje dodatkowy wkład masowy bez cząstek.
 
-35.5  
-Anty‑pole spełnia wszystkie obserwacje przypisywane ciemnej materii:  
-– nie świeci,  
-– nie absorbuje,  
-– nie rozprasza,  
-– zakrzywia przestrzeń,  
-– stabilizuje rotację galaktyk,  
-– daje dodatkowy wkład masowy bez cząstek.
+    Bilans energii jest zgodny:
+    materia widzialna + krzywizna anty‑pola = obserwowany efekt grawitacyjny.
 
-35.6  
-Bilans energii jest zgodny:  
-materia widzialna + krzywizna anty‑pola = obserwowany efekt grawitacyjny.
-
-35.7  
-Wniosek:  
-ciemna materia nie istnieje jako cząstki;  
-jest efektem energetycznym anty‑pola,  
-czyli globalnego skrętu od‑sobnego,  
-na tle którego materia jest lokalną anomalią ku‑sobną.
+    Wniosek:
+    ciemna materia nie istnieje jako cząstki; jest efektem energetycznym anty‑pola,
+    czyli globalnego skrętu od‑sobnego, na tle którego materia jest lokalną anomalią
+    ku‑sobną.
+    """
+    pass

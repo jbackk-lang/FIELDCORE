@@ -1,0 +1,60 @@
+# STREFY STABILNOŚCI KOSMOSU — FIELDCORE
+# docs/cosmos/strefy_stabilnosci.txt
+
+============================================
+   MAPA STREF STABILNOŚCI PLANETARNEJ
+============================================
+
+Legenda:
+- S — strefa stabilna (wysoka szansa na Nowe Ziemie)
+- P — strefa pośrednia (możliwa stabilność)
+- N — strefa niestabilna (niska szansa)
+- J — obszar punktu skrętu (niestabilny)
+
+--------------------------------------------
+STRUKTURA TORUSO‑MÖBIUSA (widok uproszczony)
+--------------------------------------------
+
+                Λ
+           [ N | P ]
+                 \
+                  \
+                   τ
+             [ P | S ]
+                    \
+                     \
+                      ρ
+                [ S | S ]
+                     /
+                    /
+                   J
+             [ N | N ]
+
+--------------------------------------------
+OPIS STREF
+--------------------------------------------
+
+STREFA Λ — NISKA STABILNOŚĆ
+- słaby skręt pola
+- brak rezonansu
+- planety rzadkie i niestabilne
+
+STREFA τ — ŚREDNIA STABILNOŚĆ
+- pojawiają się ramiona spiralne
+- możliwe planety, ale często niestabilne
+
+STREFA ρ — WYSOKA STABILNOŚĆ
+- silny rezonans pola
+- stabilne orbity
+- największa szansa na Nowe Ziemie
+
+STREFA J — OBSZAR NIESTABILNY
+- zmiana orientacji pola
+- aktywne jądra
+- planety powstają, ale rzadko przetrwają
+
+--------------------------------------------
+ZASADA:
+Stabilność rośnie w kierunku Λ → τ → ρ,
+a spada gwałtownie przy przejściu do J.
+--------------------------------------------

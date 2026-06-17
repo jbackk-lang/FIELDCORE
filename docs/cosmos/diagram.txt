@@ -1,0 +1,14 @@
+TORUSO‑MÖBIUS — STRUKTURA
+
+        Λ — zamknięcie
+      /   \
+     /     \
+   τ ------- ρ
+     \     /
+      \   /
+        J
+
+Λ — stabilność globalna  
+τ — skręt i kierunek  
+ρ — gradient pola  
+J — punkt przejścia

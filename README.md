@@ -51,3 +51,57 @@ Analiza odnosi się do istniejących sekcji repozytorium:
 - /src — implementacja symboliczna skrętu
 
 Toruso‑Möbius ujawnia globalną interpretację FIELDCORE bez zmiany jego natury.
+### 5. Implementacja: program rysujący toruso‑Möbiusa
+
+W ramach warstwy modeli kosmicznych dołączony zostanie:
+
+- wzór parametryczny toruso‑Möbiusa (lewostronny, odsunięty od centrum),
+- działający program w Pythonie (Thonny / matplotlib) rysujący tę strukturę.
+
+#### 5.1. Wzór na toruso‑Möbiusa
+
+Parametry:
+- u ∈ [0, 2π] — kierunek globalny (zamknięcie torusa),
+- v ∈ [-1, 1] — szerokość paska,
+- R > 1 — odsunięcie od centrum,
+- a > 0 — szerokość paska (brak samoprzecięć przy małym a).
+
+Wzór:
+
+x(u,v) = (R + a v cos(u/2)) cos u  
+y(u,v) = (R + a v cos(u/2)) sin u  
+z(u,v) =  a v sin(u/2)
+
+Lewostronność wynika z użycia sin(u/2), cos(u/2).
+
+#### 5.2. Program rysujący toruso‑Möbiusa (Python)
+
+```python
+import numpy as np
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+
+# parametry toruso‑Möbiusa
+R = 2.0     # odsunięcie od centrum
+a = 0.5     # szerokość paska
+
+u = np.linspace(0, 2*np.pi, 300)
+v = np.linspace(-1, 1, 50)
+u, v = np.meshgrid(u, v)
+
+x = (R + a * v * np.cos(u/2)) * np.cos(u)
+y = (R + a * v * np.cos(u/2)) * np.sin(u)
+z =  a * v * np.sin(u/2)
+
+fig = plt.figure(figsize=(10, 7))
+ax = fig.add_subplot(111, projection='3d')
+
+ax.plot_surface(x, y, z, rstride=1, cstride=1,
+                cmap='viridis', edgecolor='none')
+
+ax.set_title("Lewostronny toruso‑Möbius (FIELDCORE)")
+ax.set_xlabel("X")
+ax.set_ylabel("Y")
+ax.set_zlabel("Z")
+
+plt.show()

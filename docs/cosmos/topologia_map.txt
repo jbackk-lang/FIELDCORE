@@ -1,0 +1,72 @@
+# MAPA GLOBALNEJ TOPOLOGII KOSMOSU — FIELDCORE
+# docs/cosmos/topologia_map.txt
+
+====================================================
+        GLOBALNA STRUKTURA TORUSO‑MÖBIUSA
+====================================================
+
+Widok uproszczony (schemat faz Λ–τ–ρ–J):
+
+
+                     Λ
+              [ stabilność ]
+                    / \
+                   /   \
+                  /     \
+                 τ ----- ρ
+            [ przejście | rezonans ]
+                   \     /
+                    \   /
+                     \ /
+                      J
+              [ punkt skrętu ]
+
+
+====================================================
+        OPIS STRUKTURY
+====================================================
+
+Λ — STREFA STABILNA
+- słaby skręt pola
+- niska energia
+- struktury eliptyczne, soczewkowate
+
+τ — STREFA PRZEJŚCIOWA
+- narastanie skrętu
+- formowanie ramion spiralnych
+- nieregularność
+
+ρ — STREFA REZONANSU
+- maksymalna stabilność
+- silne pola magnetyczne
+- wyraźne galaktyki spiralne
+
+J — PUNKT SKRĘTU
+- zmiana orientacji pola
+- maksimum gradientu ρ
+- aktywne jądra galaktyczne
+
+====================================================
+        CYKL GLOBALNY
+====================================================
+
+Λ → τ → ρ → J → Λ → τ → ρ → J → …
+
+Cykl ten:
+- organizuje galaktyki,
+- reguluje stabilność planet,
+- określa kierunek ewolucji kosmosu.
+
+====================================================
+        ZASADA SAMOPODOBIENIA
+====================================================
+
+Ta sama struktura działa na wszystkich poziomach:
+
+- cząstki → skręt lokalny
+- atomy → rezonanse
+- gwiazdy → gradienty ρ
+- galaktyki → fazy Λ–τ–ρ–J
+- kosmos → toruso‑Möbius
+
+====================================================

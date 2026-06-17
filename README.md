@@ -1,3 +1,6 @@
+https://raw.githubusercontent.com/jbackk-lang/FIELDCORE/main/Copilot_20260614_154705.png
+
+
 # FIELDCORE — Model Skrętu Ku‑Sobnego i Od‑Sobnego
 
 FIELDCORE opisuje kosmos jako układ dwóch przeciwnych skrętów pola:

@@ -1,0 +1,49 @@
+# MAPA FAZ Λ–τ–ρ–J (FIELDCORE)
+# docs/cosmos/mapa_faz.txt
+
+                Λ
+        (stabilność globalna)
+                 |
+                 |
+        -----------------
+       /                 \
+      /                   \
+     τ ------------------- ρ
+ (przejście)         (rezonans)
+      \                   /
+       \                 /
+        -----------------
+                 |
+                 |
+                 J
+        (punkt skrętu)
+
+--------------------------------------------
+
+OPIS FAZ:
+
+Λ — faza liniowa (45°)
+- brak wyraźnego skrętu
+- galaktyki eliptyczne, soczewkowate
+- słabe pola magnetyczne
+
+τ — faza przejściowa (60°)
+- pojawiają się ramiona spiralne
+- nieregularność struktury
+- intensywne formowanie gwiazd
+
+ρ — faza rezonansu (90°)
+- wyraźne ramiona spiralne
+- stabilne pola magnetyczne
+- ustalona struktura dysku
+
+J — punkt skrętu
+- zmiana orientacji
+- aktywne jądra galaktyczne
+- lokalne maksimum energii pola
+
+--------------------------------------------
+
+ZASADA PRZEJŚĆ:
+
+Λ → τ → ρ → J → Λ (cykl)

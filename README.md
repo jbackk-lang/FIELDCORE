@@ -68,3 +68,6 @@ FIELDCORE opisuje kosmos jako interakcję dwóch skrętów:
 
 Z ich relacji wynikają wszystkie obserwowane zjawiska: grawitacja, ciemna
 materia, ekspansja, biologia, świadomość i czas.
+
+## Powiązane repozytoria
+- probabilistic‑timdr — fundament probabilistyczny i próg kolapsu

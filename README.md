@@ -71,5 +71,8 @@ materia, ekspansja, biologia, świadomość i czas.
 
 ## Powiązane repozytoria
 - probabilistic‑timdr — fundament probabilistyczny i próg kolapsu
-[Moduł przejść – 05_transition_module](docs/05_transition_module.md)
+## Moduły
+
+- [05_transition_module – próg kolapsu, drugie przejście i fala grawitacyjna](docs/05_transition_module.md)
+
 

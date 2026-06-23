@@ -1,3 +1,8 @@
+## 🔗 Wszystkie modele i repozytoria
+Pełna lista projektów znajduje się na stronie:
+https://jbackk-lang.github.io
+
+
 ![Mapa FIELDCORE](https://raw.githubusercontent.com/jbackk-lang/FIELDCORE/main/Copilot_20260614_154705.png)
 
 # FIELDCORE — Model Skrętu Ku‑Sobnego i Od‑Sobnego

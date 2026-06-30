@@ -75,7 +75,7 @@ Odpowiada za ekspansję kosmosu i stanowi dominujący składnik energii współc
 - **12_operator_equations_transitions.md** — równania operatorowe przejść
 
 ---
-
+![systemwezelkowy](https://github.com/jbackk-lang/FIELDCORE/blob/main/khipu_grid_specification.pdf)
 ## Licencja
 
 Projekt otwarty, rozwijany eksperymentalnie.

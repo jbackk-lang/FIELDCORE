@@ -1,7 +1,7 @@
 ## 🔗 Wszystkie modele i repozytoria
 Pełna lista projektów znajduje się na stronie:
 https://jbackk-lang.github.io
-
+https://doi.org/10.5281/zenodo.21206150
 
 ![Mapa FIELDCORE](https://raw.githubusercontent.com/jbackk-lang/FIELDCORE/main/Copilot_20260614_154705.png)
 

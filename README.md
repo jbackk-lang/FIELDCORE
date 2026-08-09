@@ -7,6 +7,12 @@ https://doi.org/10.5281/zenodo.21206150
 
 # FIELDCORE — Model Skrętu Ku‑Sobnego i Od‑Sobnego
 
+> **Uwaga: to jest model koncepcyjny / narzędzie do myślenia, nie teoria naukowa ani model empiryczny.**
+> Poniższy opis nie przedstawia ustalonej, zweryfikowanej fizyki, biologii ani historii — to autorska metafora
+> służąca do analizy struktur. Nie należy tego traktować jako dowodu na to, jak faktycznie zbudowana jest
+> rzeczywistość, ani jako publikacji naukowej w rozumieniu peer review.
+
+
 FIELDCORE opisuje kosmos jako układ dwóch przeciwnych skrętów pola:
 - **ku‑sobnego** (materia, struktury, biologia)  
 - **od‑sobnego** (anty‑pole, próżnia, globalna geometria)
